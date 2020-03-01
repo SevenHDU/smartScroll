@@ -3,7 +3,7 @@
  * @param {HTMLElement} 禁止滚动的容器 DOM
  * @param {HTMLElement} 可以滚动的元素 DOM
  */
-export default function smartScroll(
+export default function scrollInModal(
     containerDom: HTMLElement,
     scrollDom: HTMLElement
 ) {
